@@ -1,0 +1,66 @@
+body {
+    background: #fa8989;
+    text-align: center;
+}
+
+.titulo3 {
+    font-family: 'Passions Conflict';
+    color: #e2e2e2;
+    font-size: 8rem;
+    margin: 0;
+    padding: 20px;
+}
+
+#p1 {
+    font: normal 30pt 'Passions Conflict';
+    background: rgb(42, 139, 42);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+#p2 {
+    font: normal 30pt 'Passions Conflict';
+    background: rgb(42, 139, 42);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-top: -200px;
+    margin-left: 650px;
+}
+
+#p3 {
+    font: normal 30pt 'Passions Conflict';
+    background: rgb(42, 139, 42);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-top: -200px;
+    margin-left: 1050px;
+}
+
+button {
+    position: absolute;
+    top: 80%;
+    right: 45%;
+    text-align: center;
+    color: black;
+    border: 3px solid #1b8d2c;
+    background: #d9ffdf;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+}

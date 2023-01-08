@@ -1,0 +1,37 @@
+body {
+    background: #fa8989;
+    text-align: center;
+}
+
+.titulo {
+    font-family: 'Passions Conflict';
+    color: #e2e2e2;
+    font-size: 8rem;
+    margin: 0;
+    padding: 20px;
+}
+
+
+
+button {
+    position: absolute;
+    top: 90%;
+    right: 45%;
+    text-align: center;
+    color: black;
+    border: 3px solid #1b8d2c;
+    background: #d9ffdf;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+#filme {
+    width: 600px;
+    border: 3px solid rgb(236, 77, 77);
+}
+
+a {
+    text-decoration: none;
+}
