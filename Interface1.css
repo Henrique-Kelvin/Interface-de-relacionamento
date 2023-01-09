@@ -1,8 +1,9 @@
 body {
-    background: #fa8989;
+    background: #3CB371;
     text-align: center;
 }
 
+/*titulo texto*/
 .titulo {
     font-family: 'Passions Conflict';
     color: #e2e2e2;
@@ -11,8 +12,7 @@ body {
     padding: 20px;
 }
 
-
-
+/*Botão de interação com usuario*/
 button {
     position: absolute;
     top: 90%;
@@ -26,6 +26,7 @@ button {
     padding: 10px;
     font-size: 1.5rem;
 }
+
 
 #filme {
     width: 600px;
